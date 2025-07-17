@@ -9,7 +9,7 @@ In this phase of my internship, I implemented Firebase Authentication into an An
 🔹 Managed Authentication State with ViewModel & LiveData
 🔹 Handled Auth Errors, Toast Messages & Navigation
 
-🎥 Demo Video: 
+🎥 Demo Video: https://www.linkedin.com/posts/sowjanya-karanam-7373a82b1_task-4-completed-firebase-authentication-activity-7351621362957885440-qyF0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr8mBsBp8u3fS13MkjGlC20D2NAhb8dZ78
 
 💡 This task enhanced my understanding of secure user authentication in mobile apps and taught me real-world integration of Firebase with clean architecture patterns.
 
